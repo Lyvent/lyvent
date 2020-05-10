@@ -17,13 +17,13 @@ Old stories automatically get deleted after a certain time.
 * Top stories of the day (Highest upvotes/ratings).
 * All accounts must be confirmed to write a story.
 
-* Leveling system
+* Leveling system:
   - More stories.
   - Ability to add more pictures.
   - Attach videos.
   - Unlockable through premium.
 
-* Anonymous sharing (mode).
+* Anonymous sharing (mode):
   - Display only profile picture and username.
 
 * Moderation tools:
@@ -43,9 +43,8 @@ eventually they might be refactored/replaced to make it scale.
 
 * Flask (API)
 * PSQL
-* AWS S3 Bucket (Storage)
-  - Storing user media
 
+* AWS S3 Bucket
 * Mailgun
 * Auth0
 * Stripe API
