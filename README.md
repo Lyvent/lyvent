@@ -41,14 +41,14 @@ Old stories automatically get deleted after a certain time.
 I'm using the following since I am most familiar with these,
 eventually they might be refactored/replaced to make it scale.
 
-* Flask (API)
-* PSQL
+* Node.js and Express (TypeScript) API.
+* MongoDB + Mongoose ODM
 
 * AWS S3 Bucket
 * Mailgun
 * Auth0
 * Stripe API
 
-* Frontend:
-  - Vue.js + Vuesax 4 (TypeScript)
+* Frontend/UI:
+  - Vue.js + Vuetify (TypeScript)
   - Flutter
